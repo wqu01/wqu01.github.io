@@ -8,7 +8,7 @@
 
 }
 .navbar .nav > li > a {
-  color: #FEDFE1;
+  color: #FFFAFA;
 }
 #about {
   background-color: #006284;
@@ -31,18 +31,18 @@
 }
 
 .name {
-  color: white;
+  color: #FFFAFA;
   text-align: center;
   padding-bottom: 20px;
 }
 
 .container {
-  background-color: #7DB9DE;
+  background-color: #FFFAFA;
   margin: 0px;
 }
 
 #projects {
-  background-color: #FEDFE1;
+  background-color: #FFFAFA;
   margin-top: -10px;
   width: 100%;
   /*background: repeating-linear-gradient(
