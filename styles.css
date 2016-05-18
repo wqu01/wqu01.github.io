@@ -3,7 +3,7 @@
   border: 0px;
 }
 .nav {
-  font-size: 32px;
+  font-size: 28px;
   margin-right: 20px;
 
 }
@@ -12,7 +12,7 @@
 }
 #about {
   background-color: #006284;
-  padding-top: 100px;
+  padding-top: 80px;
   background: repeating-linear-gradient(
   to right,
   #006284,
@@ -20,22 +20,42 @@
   #08192D 20px,
   #08192D 40px
 );
+  padding-bottom: 30px;
 }
 
 .avatar {
   display: block;
+  height: 150px;
   width: 150px;
   border-radius: 50%;
   margin-left: auto;
   margin-right: auto;
 }
-
 .name {
+  font-size: 48px;
   color: #FFFAFA;
   text-align: center;
   padding-bottom: 20px;
+  font-family: 'Raleway', sans-serif;
+}
+i{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+a .fa{
+  color: snow;
+}
+.font-icon{
+  text-align: center;
+  margin-top: 30px;
 }
 
+.intro{
+  text-align: center;
+  margin-top: -20px;
+  color: white;
+  font-size: 24px;
+}
 .container {
   background-color: #FFFAFA;
   margin: 0px;
@@ -53,7 +73,6 @@
   #ffffff 100px
 );*/
 }
-
 .caption {
   text-align: center;
 }
