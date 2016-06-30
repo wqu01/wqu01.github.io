@@ -13,12 +13,15 @@
 #about {
   background-color: #006284;
   padding-top: 80px;
-  background: repeating-linear-gradient(
+  /*background: repeating-linear-gradient(
   to right,
   #006284,
   #006284 20px,
   #08192D 20px,
-  #08192D 40px
+  #08192D 40px*/
+  background: -webkit-linear-gradient(left top, #6E75A4, #81C7D4); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #6E75A4, #81C7D4); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #6E75A4, #81C7D4); /* For Firefox 3.6 to 15 */
 );
   padding-bottom: 30px;
 }
